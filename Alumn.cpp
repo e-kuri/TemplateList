@@ -23,7 +23,8 @@ float Alumn::getScore(){
 	return this->score;
 }
 
-void Alumn::setScore(float score){
+void Alumn::setScore(float score)
+{
 	this->score = score;
 }
 
